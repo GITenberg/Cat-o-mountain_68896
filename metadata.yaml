@@ -5,6 +5,9 @@ contributor:
     agent_name: Humphreys, Donald S.
     gutenberg_agent_id: '40944'
     url: http://www.gutenberg.org/2009/agents/40944
+covers:
+- cover_type: archival
+  image_path: 68896-h/images/cover.jpg
 creator:
   author:
     agent_name: Friel, Arthur O. (Arthur Olney)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34534
     wikipedia: https://en.wikipedia.org/wiki/Arthur_O._Friel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68896#Cat-o-mountain
 gutenberg_issued: '2022-09-02'
 identifiers:
   gutenberg: '68896'
